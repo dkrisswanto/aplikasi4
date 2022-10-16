@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  GitHub in your pocket. Built with React Native kriswanto.
 </p>
 
 <p align="center">
